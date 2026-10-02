@@ -1,0 +1,4 @@
+Strategy,Total Cost ($),Avg Utilisation (%),SLA Violations (hrs),SLA Violation (%),Avg Latency (ms)
+Static (peak provisioning),4536.0,21.8,0,0.0,81.9
+Reactive (threshold),1456.5,68.7,10,6.0,183.2
+AI Autonomous,1746.0,56.6,0,0.0,127.1
